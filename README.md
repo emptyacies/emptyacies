@@ -1,12 +1,10 @@
-## Hi there 👋
-
 ```math
 \ce{
 $\unicode[
 goombafont; 
 color:red; 
 pointer-events: none; 
-z-index: -10; 
+z-index: -9999; 
 position: fixed; 
 top: 0; 
 left: 0; 
